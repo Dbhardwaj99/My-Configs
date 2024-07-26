@@ -1,5 +1,33 @@
 # General Keymaps for Nvim
 
+> > ### **Basic Keybindings**
+
+- > > #### dd - Delete the current line
+- > > #### dw - Delete the word under the cursor
+- > > #### d$ - Delete from the cursor to the end of the line
+- > > #### x - Delete the character under the cursor
+- > > #### u - Undo the last change
+- > > #### <C-r> - Redo the last undone change
+- > > #### yy - Yank (copy) the current line
+- > > #### yw - Yank (copy) the word under the cursor
+- > > #### p - Paste after the cursor
+- > > #### P - Paste before the cursor
+- > > #### <C-u> - Scroll up half a screen
+- > > #### <C-d> - Scroll down half a screen
+- > > #### gg - Go to the beginning of the file
+- > > #### G - Go to the end of the file
+- > > #### 0 - Go to the beginning of the line
+- > > #### $ - Go to the end of the line
+- > > #### w - Move to the beginning of the next word
+- > > #### b - Move to the beginning of the previous word
+- > > #### e - Move to the end of the next word
+- > > #### <C-o> - Jump to the previous location
+- > > #### <C-i> - Jump to the next location
+- > > #### <C-w> v - Split window vertically
+- > > #### <C-w> s - Split window horizontally
+- > > #### <C-w> w - Switch between windows
+- > > #### <C-w> q - Close the current window
+
 > > ### **Basics**
 
 - > > #### jk - Exit insert mode with jk
